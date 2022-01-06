@@ -1,0 +1,27 @@
+<courseprogram>
+	<lesson>Базовая теория</lesson>
+	<lesson>Клиент серверная архитектура</lesson>
+	<lesson>Методы запросов на сервер</lesson>
+	<lesson>Ответы сервера</lesson>
+	<lesson>Структуры запросов и ответов</lesson>
+	<lesson>JSON,XML их структура</lesson>
+	<lesson>Тестирование API</lesson>
+	<lesson>Снятие и чтение логов</lesson>
+	<lesson>Postman,Fidler</lesson>
+	<lesson>VPN</lesson>
+	<lesson>DevTools</lesson>
+	<lesson>Мобильное тестирование</lesson>
+	<lesson>Особенность iOS, Android, гайдлайны</lesson>
+	<lesson>Сборка iOS приложений на XCode</lesson>
+	<lesson>Сборка Android приложений на Android Studio</lesson>
+	<lesson>Перехват мобильного трафика через Charles</lesson>
+	<lesson>Настройка прокси на iOS и Android</lesson>
+	<lesson>Командная строка (terminal) Linux Ubuntu</lesson>
+	<lesson>Простой bash скриптринг , автоматизация рутинных задач на сервере</lesson>
+	<lesson>Доступ к удалённым серверам</lesson>
+	<lesson>Основы SQL</lesson>
+	<lesson>Git</lesson>
+	<lesson>Jmeter</lesson>
+	<lesson>Методология разработки Scrum</lesson>
+	<lesson>Python</lesson>
+</courseprogram>
